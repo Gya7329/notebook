@@ -1,0 +1,9 @@
+/** @format */
+
+body {
+  background: url("./typewriter-801921_1920.jpg");
+  font-family: "Lobster", cursive;
+}
+.form-control {
+  background-color: aqua;
+}
